@@ -1,5 +1,5 @@
 import '../dotline'
-export function calculateMagneticForce(charge: number, velocity: number, magneticField: number): number {
+void function calculateMagneticForce(charge: number, velocity: number, magneticField: number): number {
     return charge * velocity * magneticField;
 }
 
