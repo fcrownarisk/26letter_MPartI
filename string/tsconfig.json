@@ -1,0 +1,16 @@
+{
+  "import":{
+    "files":[
+      "math",
+      "Matrix",
+      "IntFloat",
+  ]  
+  },
+  "export":{
+     "files":[
+      "physics",
+      "Vector",
+      "XYZT"
+     ]
+  }
+}
