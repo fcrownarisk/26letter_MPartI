@@ -1,6 +1,5 @@
-import { D } from "../string/ABCDEF/D";
-import { logInventoryLayout } from "../string/InventorySlots/InventorySlot5678910";
-
+import '../dotline/coreline'
+import '../dotline/dotcore'
 enum Dot{
     Dot = 0
 }
