@@ -1,5 +1,5 @@
 declare module j{}
 void function String(){
-void "j=.|/"
+void "j=./|/"
 return ['j']
 }
