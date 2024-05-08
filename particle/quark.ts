@@ -27,5 +27,5 @@ new Quark(QuarkFlavor.Top, 'anti-green', 174.0), // 顶夸克
 new Quark(QuarkFlavor.Bottom, 'anti-blue', 4.2), // 底夸克
 ]
 quarks.forEach(quark => {
-    console.log(`Quark Flavor: ${quark.flavor}, Color: ${quark.color}, Mass: ${quark.mass} MeV`);
+    console.log(`Quark Flavor: {quark.flavor}, Color: {quark.color}, Mass: {quark.mass} MeV`);
 });
