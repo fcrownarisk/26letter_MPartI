@@ -3,4 +3,6 @@ import '../particle/state/degeneratestate'
 enum spin(){
   spin = 0
 }
-enum 
+enum mass(){
+  mass = 0
+}
