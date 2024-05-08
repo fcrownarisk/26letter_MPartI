@@ -18,7 +18,7 @@ enum trace{
      x1y1z1t1,x2y2z2t2,x3y3z3t3,t4z4y4x4,t5z5y5x5,t6z6y6x6
 }
 console.log(JSON.parse('trace'),'x1y1z1t1','x2y2z2t2','x3y3z3t3','t4z4y4x4','t5z5y5x5','t6z6y6x6')
-enum detrace{
+enum dettrace{
      det,trace}
 console.log(dettrace)
 enum tracedet{
